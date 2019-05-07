@@ -1,0 +1,8 @@
+1. Need to think about how do I actually want it to work in the end ?
+   -What I need to type in order to get the result ?
+   # First I call the script with (MAX and/or MIN).
+   # Then There is a prompt for "Objective Func"
+   # Type Objective func like dictionary
+   # Prompt for "constraints"
+   # Type constraints like dictionary OR BINARY
+   # 

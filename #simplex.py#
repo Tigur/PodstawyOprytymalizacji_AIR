@@ -1,0 +1,6 @@
+# Simplex Algorithm implementation
+
+import numpy
+
+class Base():
+    eq_
